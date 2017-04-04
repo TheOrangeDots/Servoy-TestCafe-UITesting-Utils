@@ -1,0 +1,21 @@
+{
+  "name": "@theorangedots/servoy-testcafe-uitesting-utils",
+  "version": "v1.0.0-alpha.1",
+  "description": "",
+  "keywords": [
+    "servoy",
+    "testcafe",
+    "uitesting"
+  ],
+  "repository": "https://github.com/TheOrangeDots/Servoy-TestCafe-UITesting-Utils.git",
+  "homepage": "https://github.com/TheOrangeDots/Servoy-TestCafe-UITesting-Utils,
+  "author": "Paul Bakker <paul@theorangedots.com>",
+  "dependencies": {
+    "full-icu": "latest"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": ">= 7.6.0"
+  },
+  "license": "MIT"
+}
