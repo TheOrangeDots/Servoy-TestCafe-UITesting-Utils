@@ -1,7 +1,7 @@
 {
   "name": "@theorangedots/servoy-testcafe-uitesting-utils",
   "version": "v1.0.0-alpha.1",
-  "description": "Utilities to ease the setup of UI Testing for Servoy solutions using TestCafe",
+  "description": "Utilities to ease UI Testing of Servoy solutions using TestCafe",
   "keywords": [
     "servoy",
     "testcafe",
