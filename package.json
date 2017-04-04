@@ -11,6 +11,7 @@
   "homepage": "https://github.com/TheOrangeDots/Servoy-TestCafe-UITesting-Utils",
   "author": "Paul Bakker <paul@theorangedots.com>",
   "dependencies": {
+    "testcafe": ">=0.14.0",
     "full-icu": "latest"
   },
   "main": "index.js",
