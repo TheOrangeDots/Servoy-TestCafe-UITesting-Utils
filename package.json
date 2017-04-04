@@ -1,14 +1,14 @@
 {
   "name": "@theorangedots/servoy-testcafe-uitesting-utils",
   "version": "v1.0.0-alpha.1",
-  "description": "",
+  "description": "Utilities to ease the setup of UI Testing for Servoy solutions using TestCafe",
   "keywords": [
     "servoy",
     "testcafe",
     "uitesting"
   ],
   "repository": "https://github.com/TheOrangeDots/Servoy-TestCafe-UITesting-Utils.git",
-  "homepage": "https://github.com/TheOrangeDots/Servoy-TestCafe-UITesting-Utils,
+  "homepage": "https://github.com/TheOrangeDots/Servoy-TestCafe-UITesting-Utils",
   "author": "Paul Bakker <paul@theorangedots.com>",
   "dependencies": {
     "full-icu": "latest"
